@@ -1,2 +1,2 @@
 # Triviagame
-oh boy we are making a tivia game
+oh boy we are making a trivia game
